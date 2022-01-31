@@ -1,3 +1,9 @@
+# I completely copied this project from here: https://github.com/VincentLoy/simplyCountdown.js
+
+# I am only borrowing this for a personal countdown 
+
+# I am not an engineer, and I don#t know how to use github, please simplycountdown.js
+
 # simplyCountdown.js
 
 ## Why another countdown ?
