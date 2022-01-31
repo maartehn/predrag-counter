@@ -2,7 +2,7 @@
 
 # I am only borrowing this for a personal countdown 
 
-# I am not an engineer, and I don#t know how to use github, please simplycountdown.js
+# I am not an engineer, and I don#t know how to use github and reach out to the original develope, but credits go to him here: https://github.com/VincentLoy/simplyCountdown.js
 
 # simplyCountdown.js
 
